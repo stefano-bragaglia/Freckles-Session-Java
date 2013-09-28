@@ -6,11 +6,10 @@ sourceCompatibility = 1.7
 
 group = 'it.bragaglia.freckles'
 version = '0.2.2-SNAPSHOT'
-artifact = 'FrecklesSessionJava'
 
 jar {
     manifest {
-        attributes 'Implementation-Title': artifact, 'Implementation-Version': version
+        attributes 'Implementation-Title': baseName, 'Implementation-Version': version
     }
 }
 

@@ -3,7 +3,6 @@
  */
 package it.bragaglia.freckles.session;
 
-import it.bragaglia.freckles.model.Value;
 import it.bragaglia.freckles.session.conditions.Relation;
 
 /**

@@ -3,8 +3,8 @@
  */
 package it.bragaglia.freckles.session.expressions.operations;
 
-import it.bragaglia.freckles.model.Value;
 import it.bragaglia.freckles.session.Expression;
+import it.bragaglia.freckles.session.Value;
 import it.bragaglia.freckles.session.expressions.Operation;
 import it.bragaglia.freckles.session.expressions.OperationImpl;
 

@@ -3,7 +3,7 @@
  */
 package it.bragaglia.freckles.session.collector;
 
-import it.bragaglia.freckles.model.Value;
+import it.bragaglia.freckles.session.Value;
 
 import java.util.HashSet;
 import java.util.Map;
